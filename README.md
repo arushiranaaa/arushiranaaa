@@ -1,11 +1,13 @@
 # Hey there 👋
 
-I'm **Arushi Rana**, a final-year **B.Tech CSE student** passionate about **Web Development, DevOps, and Generative AI**.  
-I enjoy building projects, exploring new technologies, and contributing to open source. 🚀  
+I'm Arushi Rana, a final-year B.Tech CSE student on a mission to build, innovate, and explore the future of tech. 🚀
+I love turning ideas into projects, diving into new technologies, and contributing to the open-source community.
 
-- 🌱 Currently learning **Cloud & AI-powered applications**  
-- 💻 Interested in **System Design & Full-Stack Development**  
-- ⚡ Open to collaborations and exciting internship opportunities  
+🌱 Currently on a journey to master Cloud & AI-powered applications
+
+💻 Fascinated by System Design, Full-Stack Development, and problem-solving at scale
+
+⚡ Always open to collaborations, exciting projects, and internship adventures
 
 ---
 
@@ -58,12 +60,6 @@ I enjoy building projects, exploring new technologies, and contributing to open 
   “The best way to predict the future is to invent it.” – Alan Kay
 </p>
 
----
-
-### 🐍 GitHub Streak Snake
-<p align="center">
-  <img src="https://github.com/arushiranaaa/arushiranaaa/blob/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
-</p>
 
 
 <!--
