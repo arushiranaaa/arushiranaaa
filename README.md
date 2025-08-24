@@ -58,6 +58,13 @@ I enjoy building projects, exploring new technologies, and contributing to open 
   “The best way to predict the future is to invent it.” – Alan Kay
 </p>
 
+---
+
+### 🐍 GitHub Streak Snake
+<p align="center">
+  <img src="https://github.com/arushiranaaa/arushiranaaa/blob/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
+</p>
+
 
 <!--
 **arushiranaaa/arushiranaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
