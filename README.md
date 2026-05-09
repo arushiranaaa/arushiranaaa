@@ -3,10 +3,9 @@
 I'm Arushi Rana, a final-year B.Tech CSE student on a mission to build, innovate, and explore the future of tech. 🚀
 I love turning ideas into projects, diving into new technologies, and contributing to the open-source community.
 
-🌱 Currently on a journey to master Cloud & AI-powered applications
-
+🔭 Currently building: AI-powered network tooling
+🌱 Learning: LangGraph · Vector DBs · Async Python
 💻 Fascinated by System Design, Full-Stack Development, and problem-solving at scale
-
 ⚡ Always open to collaborations, exciting projects, and internship adventures
 
 ---
@@ -23,6 +22,11 @@ I love turning ideas into projects, diving into new technologies, and contributi
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
